@@ -1,0 +1,33 @@
+
+metodo de Encapsulamento
+    A armatura tera as seguintes funções:
+        Modo camuflagem
+        Ativar reator
+        Ativar armas
+        Escaniar
+        Voo
+        Detonar
+
+
+    Class privadas:
+        Ligado
+        Armas
+        Reator
+
+
+    Métodos abstratos:
+        ligar - armadura
+        desligar - armadura
+        abrir - menu
+        fechar - menu
+        ativar - camuflagem
+        desativar - camuflagem
+        ativar - armas
+        desativar - armas
+        ativar - reator
+        desativar - reator
+        ativar - voo
+        desativar - voo
+        ativar - escaner
+        desativar - escaner
+        detonar - armadura
